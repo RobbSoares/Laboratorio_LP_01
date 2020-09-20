@@ -109,6 +109,7 @@ int avaliacaoDeRequisitos()
 {
     int resposta[6];
 
+    printf("Formulario para averiguacao de disponibilidade do Seguro-Desemprego\n");
     printf("\nE trabalhador formal?.....................................................: ");
     resposta[0] = getchar();
     scanf("%*c", &resposta[0]);
