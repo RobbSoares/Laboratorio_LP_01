@@ -1,4 +1,4 @@
-Laboratorio Um -
-Exercício apresentado à disciplina Linguagem de Programação.
+<h1 align="center>Laboratorio Um 💻</h1>
 
-Programa desenvolvido em C com intuito de averiguar se uma pessoa possui direito ao Seguro Desemprego.
+<p align="center>Exercício apresentado à disciplina Linguagem de Programação.</p>
+<p>Programa desenvolvido em C com o intuito de averiguar se uma pessoa possui direito ao Seguro Desemprego.</p>
